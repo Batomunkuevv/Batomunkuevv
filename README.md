@@ -6,9 +6,8 @@
 </p>
 <h2>I'm a Frontend Developer</h2>
 <p>
-    I have been engaged in frontend development for 2 years<br>
+    I have been engaged in frontend development for 5 years<br>
     During this time I managed to fall in love with code and development<br>
-    <b>My English level is A2, but I'm working on improving it</b>
 </p>
 <h2>My current stack:</h2>
 
